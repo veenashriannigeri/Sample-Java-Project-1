@@ -4,4 +4,4 @@ To run this java file We need to compile
 To compile- javac Test.java
 To run- java Test.java
 
-Follow these steps to run java project
+Follow these steps to run java projects
