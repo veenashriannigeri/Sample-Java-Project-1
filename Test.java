@@ -7,7 +7,7 @@ public class Test {
         int res=a+b;
         System.out.println("the result is " +res);
         System.out.println("Welcome to Jenkins First Session");
-        system.out.println("This is the second session")
+        System.out.println("This is the second session");
     }
     public static void main(String[] args)
     {
