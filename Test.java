@@ -2,8 +2,8 @@ public class Test {
 
     static void add()
     {
-        int a=100;
-        int b=200;
+        int a=200;
+        int b=300;
         int res=a+b;
         System.out.println("the result is " +res);
         System.out.println("Welcome to Jenkins First Session");
